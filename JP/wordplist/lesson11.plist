@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>うた(歌) 〔名〕 歌，歌曲</string>
+	<string>カラオケ 〔名〕 卡拉OK</string>
+	<string>ロック 〔名〕 摇滚乐</string>
+	<string>ボブッス 〔名〕 流行音乐</string>
+	<string>クラシック 〔名〕 西方古典音乐</string>
+	<string>ピアノ 〔名〕 钢琴</string>
+	<string>え(絵) 〔名〕 画儿</string>
+	<string>えいご(英語) 〔名〕 英语</string>
+	<string>スペインご(～語) 〔名〕 西班牙语</string>
+	<string>スポーツ 〔名〕 体育，运动</string>
+	<string>すいえい(水泳) 〔名〕 游泳</string>
+	<string>ゴルフ 〔名〕 高尔夫球</string>
+	<string>うんてん(運転) 〔名〕 开车</string>
+	<string>のみもの(飲み物) 〔名〕 饮料</string>
+	<string>おさけ(お酒) 〔名〕 酒，酒类</string>
+	<string>にく(肉) 〔名〕 肉</string>
+	<string>やさい(野菜) 〔名〕 蔬菜</string>
+	<string>くだもの(果物) 〔名〕 水果</string>
+	<string>ヒマワリ 〔名〕 向日葵</string>
+	<string>バラ 〔名〕 蔷薇，玫瑰</string>
+	<string>コンピュータ 〔名〕 计算机，电脑</string>
+	<string>まど(窓) 〔名〕 窗，窗户</string>
+	<string>けっこんしき(結婚式) 〔名〕 结婚典礼</string>
+	<string>しゃしんてん(写真展) 〔名〕 摄影展</string>
+	<string>りょかん(旅館) 〔名〕 旅馆，旅店</string>
+	<string>べっそう(別荘) 〔名〕 别墅</string>
+	<string>よせぎざいく(寄木細工)   〔名〕 木片儿拼花工艺品</string>
+	<string>もよう(模様) 〔名〕 花纹，纹案</string>
+	<string>がいこく(外国) 〔名〕 外国</string>
+	<string>かいぎ(会議) 〔名〕 会议</string>
+	<string>あし(脚) 〔名〕 腿</string>
+	<string>ぼく 〔代〕 我(男性自称)</string>
+	<string>わかります(分かります) 〔动1〕 懂，明白</string>
+	<string>まよいます(迷います) 〔动1〕 犹豫，难以决定</string>
+	<string>できます 〔动2〕 会;能;完成</string>
+	<string>しめます(閉めます) 〔动2〕 关闭，关门</string>
+	<string>つかれます(疲れます) 〔动2〕 疲倦，疲惫</string>
+	<string>さんぽします(散歩～) 〔动3〕 散步</string>
+	<string>こわい(怖い) 〔形1〕 害怕，恐怖</string>
+	<string>あかい(赤い) 〔形1〕 红</string>
+	<string>いたい(痛い) 〔形1〕 疼，疼痛</string>
+	<string>じょうず(上手) 〔形2〕 擅长，高明，水平高</string>
+	<string>へた(下手) 〔形2〕 不高明，水平低</string>
+	<string>にがて(苦手) 〔形2〕 不擅长，不善于</string>
+	<string>ときどき(時々) 〔副〕 有时，时不时</string>
+	<string>よく 〔副〕 经常，常常</string>
+	<string>たまに 〔副〕 偶尔，很少</string>
+	<string>また 〔副〕 还，再，又</string>
+	<string>どうして 〔副〕 为什么</string>
+	<string>だから∕ですから 〔连〕 所以，因此</string>
+	<string>うーん 〔叹〕 嗯...，这个...</string>
+	<string>けっこうです(結構です) 不用，不要</string>
+	<string>きにいります(気に入ります) 喜欢，中意</string>
+	<string>など　　 等等</string>
+</array>
+</plist>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+    <string>プレゼント 〔名〕 礼物</string>
+    <string>チケット 〔名〕 票</string>
+    <string>パンフレット 〔名〕 小册子</string>
+    <string>きねんひん(記念品) 〔名〕 纪念品</string>
+    <string>スケジュールひょう(～表) 〔名〕 日程表</string>
+    <string>しゃしんしゅう(写真集) 〔名〕 影集</string>
+    <string>はな(花) 〔名〕 花</string>
+    <string>おかね(お金) 〔名〕 钱，金钱</string>
+    <string>ボールペン 〔名〕 圆珠笔</string>
+    <string>しゅくだい(宿題) 〔名〕 作业</string>
+    <string>こうくうびん(航空便) 〔名〕 航空邮件</string>
+    <string>そくたつ(速達) 〔名〕 速递，快件</string>
+    <string>ファックス 〔名〕 传真</string>
+    <string>メール 〔名〕 邮件</string>
+    <string>でんおばんごう(電話番号) 〔名〕 电话号码</string>
+    <string>じゅうしょ(住所) 〔名〕 住址</string>
+    <string>なまえ(名前) 〔名〕 姓名</string>
+    <string>けん(件) 〔名〕 事件，事情</string>
+    <string>しんぶんし(新聞紙) 〔名〕 报纸</string>
+    <string>かみひこうき(紙飛行機) 〔名〕 纸折的飞机</string>
+    <string>チョコレート 〔名〕 巧克力</string>
+    <string>アイスクリーム 〔名〕 冰激凌</string>
+    <string>こむぎこ(小麦粉) 〔名〕 面粉</string>
+    <string>はし 〔名〕 筷子</string>
+    <string>スプーン 〔名〕 勺子</string>
+    <string>おにいさん(お兄さん) 〔名〕 哥哥</string>
+    <string>かんこくご(韓国語) 〔名〕 韩语</string>
+    <string>ゆうがた(夕方) 〔名〕 傍晚</string>
+    <string>ひるやすみ(昼休み) 〔名〕 午休</string>
+    <string>もらいます 〔动1〕 拿到，得到</string>
+    <string>あいます(会います) 〔动1〕 见</string>
+    <string>おくります(送ります) 〔动1〕 寄</string>
+    <string>つくります(作ります) 〔动1〕 做，制造</string>
+    <string>ふとります(太ります) 〔动1〕 胖</string>
+    <string>だします(出します) 〔动1〕 寄(信)</string>
+    <string>とどきます(届きます) 〔动1〕 收到，送到，寄到</string>
+    <string>かきます 〔动1〕 画</string>
+    <string>かします(貸します) 〔动1〕 借出，借给</string>
+    <string>ならいます(習います) 〔动1〕 学习</string>
+    <string>あげます 〔动2〕 给</string>
+    <string>かけます 〔动2〕 打(电话)</string>
+    <string>かります(借ります) 〔动2〕 (向别人)借</string>
+    <string>おしえます(教えます) 〔动2〕 教</string>
+    <string>もう 〔副〕 已经</string>
+    <string>さっき 〔副〕 刚才</string>
+    <string>たったいま(たった今) 〔副〕 刚刚</string>
+    <string>もういちど(もう一度) 〔副〕 再一次</string>
+    <string>まえに(前に) 〔副〕 以前</string>
+    <string>ちん(陳) 〔专〕 陈</string>
+    <string>どうですか 怎样，如何</string>
+    <string>おねがいします(お願いします) 拜托了</string>
+    <string>わかりました(分かりました) 明白了</string>
+    <string>よかったです 太好了</string>
+    <string>～様さま</string>
+</array>
+</plist>
+

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+    <string>デパート 〔名〕 百货商店</string>
+    <string>しょくどう(食堂) 〔名〕 食堂</string>
+    <string>ゆうびんきょく(郵便局) 〔名〕 邮局</string>
+    <string>ぎんこう(銀行) 〔名〕 银行</string>
+    <string>としょかん(図書館) 〔名〕 图书馆</string>
+    <string>マンション 〔名〕 (高级)公寓</string>
+    <string>ホテル 〔名〕 宾馆</string>
+    <string>コンビニ 〔名〕 便利店</string>
+    <string>きっさてん(喫茶店) 〔名〕 咖啡馆</string>
+    <string>びょういん(病院) 〔名〕 医院</string>
+    <string>ほんや(本屋) 〔名〕 书店</string>
+    <string>レストラン 〔名〕 餐馆，西餐馆</string>
+    <string>ビル 〔名〕 大楼，大厦</string>
+    <string>たてもの(建物) 〔名〕 大楼，建筑物</string>
+    <string>うりば(売り場) 〔名〕 柜台，出售处</string>
+    <string>トイレ 〔名〕 厕所，盥洗室</string>
+    <string>いりぐち(入り口) 〔名〕 入口</string>
+    <string>じむしょ(事務所) 〔名〕 事务所，办事处</string>
+    <string>うけつけ(受付) 〔名〕 接待处</string>
+    <string>バーゲンかいじょう(～会場)  〔名〕 降价处理大卖场</string>
+    <string>エスカレーター 〔名〕 自动扶梯</string>
+    <string>ふく(服) 〔名〕 衣服</string>
+    <string>コート 〔名〕 风衣，大衣</string>
+    <string>デジカメ 〔名〕 数码相机</string>
+    <string>くに(国) 〔名〕 国，国家</string>
+    <string>ちず(地図) 〔名〕 地图</string>
+    <string>となり(隣) 〔名〕 旁边</string>
+    <string>しゅうへん(周辺) 〔名〕 附近，周边</string>
+    <string>きょう(今日) 〔名〕 今天</string>
+    <string>すいようび(水曜日) 〔名〕 星期三</string>
+    <string>もくようび(木曜日) 〔名〕 星期四</string>
+    <string>ここ 〔代〕 这里，这儿</string>
+    <string>そこ 〔代〕 那里，那儿</string>
+    <string>あそこ 〔代〕 那里，那儿</string>
+    <string>こちら 〔代〕 这儿，这边</string>
+    <string>そちら 〔代〕 那儿，那边</string>
+    <string>あちら 〔代〕 那儿，那边</string>
+    <string>どこ 〔疑〕 哪里，哪儿</string>
+    <string>どちら 〔疑〕 哪儿，哪边</string>
+    <string>あのう 〔叹〕 请问，对不起</string>
+    <string>シャンハイ(上海) 〔专〕 上海</string>
+    <string>とうきょう(東京) 〔专〕 东京</string>
+    <string>いくら 多少钱</string>
+    <string>お～∕～階かい∕～円えん∕～曜日ようび</string>
+</array>
+</plist>
+
+

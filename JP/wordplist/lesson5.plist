@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+    <string>いま(今) 〔名〕 现在</string>
+    <string>せんしゅう(先週) 〔名〕 上个星期</string>
+    <string>らいしゅう(来週) 〔名〕 下个星期</string>
+    <string>さらいしゅう(さ来週) 〔名〕下下个星期</string>
+    <string>こんしゅう(今週) 〔名〕 这个星期</string>
+    <string>きのう(昨日) 〔名〕 昨天</string>
+    <string>あした(明日) 〔名〕 明天</string>
+    <string>あさって 〔名〕 后天</string>
+    <string>おととい 〔名〕 前天</string>
+    <string>まいにち(毎日) 〔名〕 每天，每日</string>
+    <string>まいあさ(毎朝) 〔名〕 每天早晨</string>
+    <string>まいばん(毎晩) 〔名〕 每天晚上</string>
+    <string>まいしゅう(毎週) 〔名〕 每个星期</string>
+    <string>ごぜん(午前)∕エーエム(am) 〔名〕 上午</string>
+    <string>ごご(午後)∕ピーエム(pm) 〔名〕 下午</string>
+    <string>にちようび(日曜日) 〔名〕 星期日</string>
+    <string>げつようび(月曜日) 〔名〕 星期一</string>
+    <string>かようび(火曜日) 〔名〕 星期二</string>
+    <string>きんようび(金曜日) 〔名〕 星期五</string>
+    <string>どようび(土曜日) 〔名〕 星期六</string>
+    <string>けさ(今朝) 〔名〕 今天早晨</string>
+    <string>こんばん(今晩) 〔名〕 今天晚上</string>
+    <string>らいねん(来年) 〔名〕 明年</string>
+    <string>きょねん(去年) 〔名〕 去年</string>
+    <string>よる(夜) 〔名〕 晚上，夜里，夜晚</string>
+    <string>ばん(晩) 〔名〕 晚上</string>
+    <string>あさ(朝) 〔名〕 早晨</string>
+    <string>がっこう(学校) 〔名〕 学校</string>
+    <string>しけん(試験) 〔名〕 考试</string>
+    <string>しごと(仕事) 〔名〕 工作</string>
+    <string>ちこく(遅刻) 〔名〕 迟到</string>
+    <string>やすみ(休み) 〔名〕 休息</string>
+    <string>しゅっちょう(出張) 〔名〕 出差</string>
+    <string>けんしゅう(研修) 〔名〕 进修</string>
+    <string>りょこう(旅行) 〔名〕 旅行</string>
+    <string>てんらんかい(展覧会) 〔名〕 展览会</string>
+    <string>かんげいかい(歓迎会) 〔名〕 欢迎会</string>
+    <string>パーティー 〔名〕 联欢会</string>
+    <string>おたく(お宅) 〔名〕 府上，(您)家</string>
+    <string>いつ 〔疑〕 什么时候</string>
+    <string>やすみます(休みます) 〔动1〕 休息</string>
+    <string>はたらきます(働きます) 〔动1〕 工作</string>
+    <string>はじまります(始まります) 〔动1〕 开始</string>
+    <string>おわります(終わります) 〔动1〕 结束</string>
+    <string>おきます(起きます) 〔动2〕 起床</string>
+    <string>ねます(寝ます) 〔动2〕 睡觉</string>
+    <string>べんきょうします(勉強～) 〔动3〕 学习</string>
+    <string>いつも 〔副〕 经常，总是</string>
+    <string>ペキンししゃ(北京支社) 〔专〕 北京分社</string>
+    <string>こうべ(神戸) 〔专〕 神户</string>
+    <string>おはよう 你早</string>
+    <string>～時じ∕～分ふん∕～半はん∕～月がつ∕～日にち∕～年ねん∕ごろ</string>
+</array>
+</plist>
+
+
+
+
+
+

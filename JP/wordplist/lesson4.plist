@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+    <string>へや(部屋) 〔名〕 房间，屋子</string>
+    <string>にわ(庭) 〔名〕 院子</string>
+    <string>いえ(家) 〔名〕 家</string>
+    <string>いま(居間) 〔名〕 起居室</string>
+    <string>れいぞうこ(冷蔵庫) 〔名〕 冰箱</string>
+    <string>かべ(壁) 〔名〕 墙壁</string>
+    <string>スイッチ 〔名〕 开关</string>
+    <string>ほんだな(本棚) 〔名〕 书架</string>
+    <string>ベッド 〔名〕 床</string>
+    <string>ねこ(猫) 〔名〕 猫</string>
+    <string>いぬ(犬) 〔名〕 狗</string>
+    <string>はこ(箱) 〔名〕 盒子，箱子</string>
+    <string>めがね(眼鏡) 〔名〕 眼镜</string>
+    <string>ビデオ 〔名〕 录像机</string>
+    <string>サッカーボール 〔名〕 足球</string>
+    <string>ビール 〔名〕 啤酒</string>
+    <string>ウイスキー 〔名〕 威士忌</string>
+    <string>こども(子供) 〔名〕 孩子，小孩</string>
+    <string>きょうだい(兄弟) 〔名〕 兄弟姐妹</string>
+    <string>りょうしん(両親) 〔名〕 父母，双亲</string>
+    <string>いもうと(妹) 〔名〕 妹妹</string>
+    <string>おとこ(男) 〔名〕 男</string>
+    <string>おんな(女) 〔名〕 女</string>
+    <string>せいと(生徒) 〔名〕学生</string>
+    <string>うえ(上) 〔名〕 上面</string>
+    <string>そと(外) 〔名〕 外面</string>
+    <string>なか(中) 〔名〕 里面，内部，中间</string>
+    <string>した(下) 〔名〕 下面</string>
+    <string>まえ(前) 〔名〕 前，前面</string>
+    <string>うしろ(後ろ) 〔名〕 后，后面</string>
+    <string>ちかく(近く) 〔名〕 附近，近旁</string>
+    <string>ばしょ(場所) 〔名〕 所在地，地方，场所</string>
+    <string>きょうしつ(教室) 〔名〕 教室</string>
+    <string>かいぎしつ(会議室) 〔名〕 会议室</string>
+    <string>としょしつ(図書室) 〔名〕 图书室</string>
+    <string>こうえん(公園) 〔名〕 公园</string>
+    <string>はなや(花屋) 〔名〕 花店</string>
+    <string>ばいてん(売店) 〔名〕 小卖部，售货亭</string>
+    <string>えき(駅) 〔名〕 车站</string>
+    <string>ちかてつ(地下鉄) 〔名〕 地铁</string>
+    <string>き(樹) 〔名〕 树，树木</string>
+    <string>ひとりぐらし(一人暮らし) 〔名〕 单身生活</string>
+    <string>あります 〔动1〕 有，在(非意志者)</string>
+    <string>います 〔动2〕 有，在(具意志者)</string>
+    <string>ええと 〔叹〕 啊，嗯</string>
+    <string>よこはま(横浜) 〔专〕 横滨</string>
+    <string>なごや(名古屋) 〔专〕 名古屋</string>
+    <string>おおさか(大阪) 〔专〕 大阪</string>
+    <string>ジェーアール(JR) 〔专〕 JR</string>
+    <string>ご～</string>
+</array>
+</plist>
+

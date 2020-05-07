@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>コーヒー 〔名〕 咖啡</string>
+	<string>コーラ 〔名〕 可乐</string>
+	<string>おちゃ(お茶) 〔名〕 茶</string>
+	<string>ワイン 〔名〕 葡萄酒</string>
+	<string>バン 〔名〕 面包</string>
+	<string>ケーキ 〔名〕 蛋糕</string>
+	<string>おかゆ(お粥) 〔名〕 粥</string>
+	<string>ひるごはん(昼ご飯) 〔名〕 午饭</string>
+	<string>おべんとう(お弁当) 〔名〕 盒饭</string>
+	<string>そば 〔名〕 荞麦面</string>
+	<string>うどん 〔名〕 面条</string>
+	<string>おやこどん(親子丼) 〔名〕 鸡肉鸡蛋盖饭</string>
+	<string>カレー 〔名〕 咖喱(饭)</string>
+	<string>たまご(卵) 〔名〕 鸡蛋</string>
+	<string>チーズ 〔名〕 干酪</string>
+	<string>リンゴ 〔名〕 苹果</string>
+	<string>イチゴ 〔名〕 草莓</string>
+	<string>そばや(そば屋) 〔名〕 荞麦面馆</string>
+	<string>テニス 〔名〕 网球</string>
+	<string>ジョギング 〔名〕 慢跑，跑步</string>
+	<string>サッカー 〔名〕 足球</string>
+	<string>やきゅう(野球) 〔名〕 棒球</string>
+	<string>もうしこみしょ(申込書) 〔名〕 申请书</string>
+	<string>てかみ(手紙) 〔名〕 信</string>
+	<string>シーディー(CD) 〔名〕 CD</string>
+	<string>おんがく(音楽) 〔名〕 音乐</string>
+	<string>えいが(映画) 〔名〕 电影</string>
+	<string>どうぶつえん(動物園) 〔名〕 动物园</string>
+	<string>バンダ 〔名〕 熊猫</string>
+	<string>のみます(飲みます) 〔动1〕 喝</string>
+	<string>かいます(買います) 〔动1〕 买</string>
+	<string>とります(撮ります) 〔动1〕 拍照，拍摄</string>
+	<string>かきます(書きます) 〔动1〕 写</string>
+	<string>よみます(読みます) 〔动1〕 读</string>
+	<string>ききます(聞きます) 〔动1〕 听</string>
+	<string>たべます(食べます) 〔动2〕 吃</string>
+	<string>みます(見ます) 〔动2〕 看</string>
+	<string>します 〔动3〕 干，做</string>
+	<string>そうじします(掃除～) 〔动3〕 打扫，扫除</string>
+	<string>これから 〔副〕 从现在起，今后</string>
+	<string>じゃあ∕では 〔连〕 那么</string>
+	<string>いらっしゃいませ 欢迎光临 </string>
+	<string>しつれいします(失礼します) 告辞了，我走了</string>
+	<string>しつれいしました(失礼しました) 打搅了，失礼了</string>
+	<string>いってまいります 我走了</string>
+	<string>いってきます　我走了</string>
+	<string>いってらっしゃい 你走好</string>
+	<string>ただいま 我回来了</string>
+	<string>おかえりなさい(お帰りなさい) 你回来了</string>
+	<string>かしこまりました 我知道了</string>
+	<string>おじゃまします（お邪魔します）　　打扰了</string>
+	<string>ください　 给我</string>
+	<string>ごぜんちゅう（午前中）　　上午</string>
+</array>
+</plist>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+    <string>ボート            [名]小船</string>
+    <string>ベンチ            [名]长椅，长凳</string>
+    <string>しやくしょ （市役所）           [名]市政府</string>
+    <string>けいたいでんわ （携帯電話）           [名]手机</string>
+    <string>きんえん （禁煙）           [名]禁止吸烟</string>
+    <string>かぜ （風邪）           [名]感冒</string>
+    <string>ねつ （熱）           [名]发烧，体温</string>
+    <string>すいみん （睡眠）           [名]睡眠</string>
+    <string>おふろ （お風呂）           [名]澡堂，浴室</string>
+    <string>やっきょく （薬局）           [名]药店</string>
+    <string>クーラー            [名]空调</string>
+    <string>ひ （火）           [名]火</string>
+    <string>き （気）           [名]精神，意识</string>
+    <string>うちあわせ （打ちあわせ）           [名]事先商量，碰头，商洽</string>
+    <string>むり （無理）           [名]勉强，难以办到</string>
+    <string>ちゅうしゃきんし （駐車禁止）           [名]禁止停车</string>
+    <string>たちいりきんし （立入禁止）           [名]禁止进入</string>
+    <string>かきげんきん （火気厳禁）           [名]严谨烟火</string>
+    <string>さつえいきんし （撮影禁止）           [名]禁止拍照</string>
+    <string>のります （乗ります）           [动1]</string>
+    <string>つかいます （使います）           [动1]用，使用</string>
+    <string>すわります （座ります）           [动1]坐，落座</string>
+    <string>はいります （入ります）           [动1]进入，加入</string>
+    <string>もうします （申します）           [动1]是，说，讲，告诉</string>
+    <string>とります （取ります）           [动1]取，取得</string>
+    <string>うたいます （歌います）           [动1]唱，歌唱</string>
+    <string>つたえます （伝えます）           [动２]说，传达，转告</string>
+    <string>とめます （止めます）           [动２]停，制止</string>
+    <string>あたたかい （温かい）           [形1]热乎，温暖</string>
+    <string>だいじょうぶ （大丈夫）           [形2]没关系</string>
+    <string>だめ            [形2]不行，不可以</string>
+    <string>じゅうぶん （十分）           [副]好好地，充足地</string>
+    <string>もちろん            [副]当然，不用说</string>
+    <string>ゆっくり            [副]好好地，安静地</string>
+    <string>もしもし           [叹]喂</string>
+    <string>いえ           [叹]不，不是</string>
+    <string>おだいじに （お大事に）           请多保重</string>
+    <string>いけません            不行，不可以</string>
+    <string>かまいません            没关系，不要紧</string>
+    <string>まだです            还没有，仍然。。。。没有</string>
+    <string>きをつけます （気をつけます）           注意</string>
+    <string>むりをします （無理をします）           勉强</string>
+    <string>すいみんをとります （睡眠をとります）           睡觉</string>
+    <string>おふろにはいります （お風呂に入ります）           洗澡</string>
+</array>
+</plist>

@@ -1,0 +1,476 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		4CB4D1CA2463A54D003CE291 /* PopWriteVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CB4D1C82463A54D003CE291 /* PopWriteVC.swift */; };
+		4CB4D1CB2463A54D003CE291 /* PopWriteVC.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4CB4D1C92463A54D003CE291 /* PopWriteVC.xib */; };
+		4CD05DBB24400CE30040ADDD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CD05DBA24400CE30040ADDD /* AppDelegate.swift */; };
+		4CD05DBD24400CE30040ADDD /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CD05DBC24400CE30040ADDD /* ViewController.swift */; };
+		4CD05DBF24400CE60040ADDD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4CD05DBE24400CE60040ADDD /* Assets.xcassets */; };
+		4CD05DC224400CE60040ADDD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4CD05DC024400CE60040ADDD /* Main.storyboard */; };
+		4CD05DCE24401DDC0040ADDD /* ClassVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CD05DCC24401DDC0040ADDD /* ClassVC.swift */; };
+		4CD05DCF24401DDC0040ADDD /* ClassVC.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4CD05DCD24401DDC0040ADDD /* ClassVC.xib */; };
+		4CD05DD1244407B60040ADDD /* mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4CD05DD0244407B60040ADDD /* mp3 */; };
+		4CD05DD32444083D0040ADDD /* AudioHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CD05DD22444083D0040ADDD /* AudioHelper.swift */; };
+		4CD05E1224445ABE0040ADDD /* lesson14.plist in Resources */ = {isa = PBXBuildFile; fileRef = 4CD05E1124445ABE0040ADDD /* lesson14.plist */; };
+		4CD05E2724445F6F0040ADDD /* lesson5.plist in Resources */ = {isa = PBXBuildFile; fileRef = 4CD05E1324445F6E0040ADDD /* lesson5.plist */; };
+		4CD05E2824445F6F0040ADDD /* lesson13.plist in Resources */ = {isa = PBXBuildFile; fileRef = 4CD05E1424445F6E0040ADDD /* lesson13.plist */; };
+		4CD05E2924445F6F0040ADDD /* lesson21.plist in Resources */ = {isa = PBXBuildFile; fileRef = 4CD05E1524445F6E0040ADDD /* lesson21.plist */; };
+		4CD05E2A24445F6F0040ADDD /* lesson8.plist in Resources */ = {isa = PBXBuildFile; fileRef = 4CD05E1624445F6E0040ADDD /* lesson8.plist */; };
+		4CD05E2B24445F6F0040ADDD /* lesson1.plist in Resources */ = {isa = PBXBuildFile; fileRef = 4CD05E1724445F6E0040ADDD /* lesson1.plist */; };
+		4CD05E2C24445F6F0040ADDD /* lesson7.plist in Resources */ = {isa = PBXBuildFile; fileRef = 4CD05E1824445F6E0040ADDD /* lesson7.plist */; };
+		4CD05E2D24445F6F0040ADDD /* lesson18.plist in Resources */ = {isa = PBXBuildFile; fileRef = 4CD05E1924445F6E0040ADDD /* lesson18.plist */; };
+		4CD05E2E24445F6F0040ADDD /* lesson11.plist in Resources */ = {isa = PBXBuildFile; fileRef = 4CD05E1A24445F6E0040ADDD /* lesson11.plist */; };
+		4CD05E2F24445F6F0040ADDD /* lesson19.plist in Resources */ = {isa = PBXBuildFile; fileRef = 4CD05E1B24445F6F0040ADDD /* lesson19.plist */; };
+		4CD05E3024445F6F0040ADDD /* lesson15.plist in Resources */ = {isa = PBXBuildFile; fileRef = 4CD05E1C24445F6F0040ADDD /* lesson15.plist */; };
+		4CD05E3124445F6F0040ADDD /* lesson4.plist in Resources */ = {isa = PBXBuildFile; fileRef = 4CD05E1D24445F6F0040ADDD /* lesson4.plist */; };
+		4CD05E3224445F6F0040ADDD /* lesson2.plist in Resources */ = {isa = PBXBuildFile; fileRef = 4CD05E1E24445F6F0040ADDD /* lesson2.plist */; };
+		4CD05E3324445F6F0040ADDD /* lesson17.plist in Resources */ = {isa = PBXBuildFile; fileRef = 4CD05E1F24445F6F0040ADDD /* lesson17.plist */; };
+		4CD05E3424445F6F0040ADDD /* lesson20.plist in Resources */ = {isa = PBXBuildFile; fileRef = 4CD05E2024445F6F0040ADDD /* lesson20.plist */; };
+		4CD05E3524445F6F0040ADDD /* lesson10.plist in Resources */ = {isa = PBXBuildFile; fileRef = 4CD05E2124445F6F0040ADDD /* lesson10.plist */; };
+		4CD05E3624445F6F0040ADDD /* lesson12.plist in Resources */ = {isa = PBXBuildFile; fileRef = 4CD05E2224445F6F0040ADDD /* lesson12.plist */; };
+		4CD05E3724445F6F0040ADDD /* lesson9.plist in Resources */ = {isa = PBXBuildFile; fileRef = 4CD05E2324445F6F0040ADDD /* lesson9.plist */; };
+		4CD05E3824445F6F0040ADDD /* lesson3.plist in Resources */ = {isa = PBXBuildFile; fileRef = 4CD05E2424445F6F0040ADDD /* lesson3.plist */; };
+		4CD05E3924445F6F0040ADDD /* lesson6.plist in Resources */ = {isa = PBXBuildFile; fileRef = 4CD05E2524445F6F0040ADDD /* lesson6.plist */; };
+		4CD05E3A24445F6F0040ADDD /* lesson16.plist in Resources */ = {isa = PBXBuildFile; fileRef = 4CD05E2624445F6F0040ADDD /* lesson16.plist */; };
+		4CD05E4B2445EF0F0040ADDD /* lesson24.plist in Resources */ = {isa = PBXBuildFile; fileRef = 4CD05E482445EF0E0040ADDD /* lesson24.plist */; };
+		4CD05E4C2445EF0F0040ADDD /* lesson23.plist in Resources */ = {isa = PBXBuildFile; fileRef = 4CD05E492445EF0F0040ADDD /* lesson23.plist */; };
+		4CD05E4D2445EF0F0040ADDD /* lesson22.plist in Resources */ = {isa = PBXBuildFile; fileRef = 4CD05E4A2445EF0F0040ADDD /* lesson22.plist */; };
+		4CD05E50244709490040ADDD /* Carbon.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4CD05E4F244709490040ADDD /* Carbon.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		4CB4D1C82463A54D003CE291 /* PopWriteVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopWriteVC.swift; sourceTree = "<group>"; };
+		4CB4D1C92463A54D003CE291 /* PopWriteVC.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = PopWriteVC.xib; sourceTree = "<group>"; };
+		4CD05DB724400CE30040ADDD /* JP.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = JP.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		4CD05DBA24400CE30040ADDD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		4CD05DBC24400CE30040ADDD /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		4CD05DBE24400CE60040ADDD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		4CD05DC124400CE60040ADDD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		4CD05DC324400CE60040ADDD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4CD05DC424400CE60040ADDD /* JP.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = JP.entitlements; sourceTree = "<group>"; };
+		4CD05DCC24401DDC0040ADDD /* ClassVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClassVC.swift; sourceTree = "<group>"; };
+		4CD05DCD24401DDC0040ADDD /* ClassVC.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ClassVC.xib; sourceTree = "<group>"; };
+		4CD05DD0244407B60040ADDD /* mp3 */ = {isa = PBXFileReference; lastKnownFileType = folder; path = mp3; sourceTree = "<group>"; };
+		4CD05DD22444083D0040ADDD /* AudioHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AudioHelper.swift; sourceTree = "<group>"; };
+		4CD05E1124445ABE0040ADDD /* lesson14.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = lesson14.plist; sourceTree = "<group>"; };
+		4CD05E1324445F6E0040ADDD /* lesson5.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = lesson5.plist; sourceTree = "<group>"; };
+		4CD05E1424445F6E0040ADDD /* lesson13.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = lesson13.plist; sourceTree = "<group>"; };
+		4CD05E1524445F6E0040ADDD /* lesson21.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = lesson21.plist; sourceTree = "<group>"; };
+		4CD05E1624445F6E0040ADDD /* lesson8.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = lesson8.plist; sourceTree = "<group>"; };
+		4CD05E1724445F6E0040ADDD /* lesson1.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = lesson1.plist; sourceTree = "<group>"; };
+		4CD05E1824445F6E0040ADDD /* lesson7.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = lesson7.plist; sourceTree = "<group>"; };
+		4CD05E1924445F6E0040ADDD /* lesson18.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = lesson18.plist; sourceTree = "<group>"; };
+		4CD05E1A24445F6E0040ADDD /* lesson11.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = lesson11.plist; sourceTree = "<group>"; };
+		4CD05E1B24445F6F0040ADDD /* lesson19.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = lesson19.plist; sourceTree = "<group>"; };
+		4CD05E1C24445F6F0040ADDD /* lesson15.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = lesson15.plist; sourceTree = "<group>"; };
+		4CD05E1D24445F6F0040ADDD /* lesson4.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = lesson4.plist; sourceTree = "<group>"; };
+		4CD05E1E24445F6F0040ADDD /* lesson2.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = lesson2.plist; sourceTree = "<group>"; };
+		4CD05E1F24445F6F0040ADDD /* lesson17.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = lesson17.plist; sourceTree = "<group>"; };
+		4CD05E2024445F6F0040ADDD /* lesson20.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = lesson20.plist; sourceTree = "<group>"; };
+		4CD05E2124445F6F0040ADDD /* lesson10.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = lesson10.plist; sourceTree = "<group>"; };
+		4CD05E2224445F6F0040ADDD /* lesson12.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = lesson12.plist; sourceTree = "<group>"; };
+		4CD05E2324445F6F0040ADDD /* lesson9.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = lesson9.plist; sourceTree = "<group>"; };
+		4CD05E2424445F6F0040ADDD /* lesson3.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = lesson3.plist; sourceTree = "<group>"; };
+		4CD05E2524445F6F0040ADDD /* lesson6.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = lesson6.plist; sourceTree = "<group>"; };
+		4CD05E2624445F6F0040ADDD /* lesson16.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = lesson16.plist; sourceTree = "<group>"; };
+		4CD05E482445EF0E0040ADDD /* lesson24.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = lesson24.plist; sourceTree = "<group>"; };
+		4CD05E492445EF0F0040ADDD /* lesson23.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = lesson23.plist; sourceTree = "<group>"; };
+		4CD05E4A2445EF0F0040ADDD /* lesson22.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = lesson22.plist; sourceTree = "<group>"; };
+		4CD05E4F244709490040ADDD /* Carbon.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Carbon.framework; path = System/Library/Frameworks/Carbon.framework; sourceTree = SDKROOT; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		4CD05DB424400CE30040ADDD /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4CD05E50244709490040ADDD /* Carbon.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		4CD05DAE24400CE30040ADDD = {
+			isa = PBXGroup;
+			children = (
+				4CD05DB924400CE30040ADDD /* JP */,
+				4CD05DB824400CE30040ADDD /* Products */,
+				4CD05E4E244709490040ADDD /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		4CD05DB824400CE30040ADDD /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				4CD05DB724400CE30040ADDD /* JP.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		4CD05DB924400CE30040ADDD /* JP */ = {
+			isa = PBXGroup;
+			children = (
+				4CD05E3B24445F7B0040ADDD /* wordplist */,
+				4CD05DD0244407B60040ADDD /* mp3 */,
+				4CD05DBE24400CE60040ADDD /* Assets.xcassets */,
+				4CD05DBA24400CE30040ADDD /* AppDelegate.swift */,
+				4CD05DBC24400CE30040ADDD /* ViewController.swift */,
+				4CD05DC024400CE60040ADDD /* Main.storyboard */,
+				4CD05DC324400CE60040ADDD /* Info.plist */,
+				4CD05DC424400CE60040ADDD /* JP.entitlements */,
+				4CD05DCC24401DDC0040ADDD /* ClassVC.swift */,
+				4CD05DCD24401DDC0040ADDD /* ClassVC.xib */,
+				4CD05DD22444083D0040ADDD /* AudioHelper.swift */,
+				4CB4D1C82463A54D003CE291 /* PopWriteVC.swift */,
+				4CB4D1C92463A54D003CE291 /* PopWriteVC.xib */,
+			);
+			path = JP;
+			sourceTree = "<group>";
+		};
+		4CD05E3B24445F7B0040ADDD /* wordplist */ = {
+			isa = PBXGroup;
+			children = (
+				4CD05E1724445F6E0040ADDD /* lesson1.plist */,
+				4CD05E1E24445F6F0040ADDD /* lesson2.plist */,
+				4CD05E2424445F6F0040ADDD /* lesson3.plist */,
+				4CD05E1D24445F6F0040ADDD /* lesson4.plist */,
+				4CD05E1324445F6E0040ADDD /* lesson5.plist */,
+				4CD05E2524445F6F0040ADDD /* lesson6.plist */,
+				4CD05E1824445F6E0040ADDD /* lesson7.plist */,
+				4CD05E1624445F6E0040ADDD /* lesson8.plist */,
+				4CD05E2324445F6F0040ADDD /* lesson9.plist */,
+				4CD05E2124445F6F0040ADDD /* lesson10.plist */,
+				4CD05E1A24445F6E0040ADDD /* lesson11.plist */,
+				4CD05E2224445F6F0040ADDD /* lesson12.plist */,
+				4CD05E1424445F6E0040ADDD /* lesson13.plist */,
+				4CD05E1124445ABE0040ADDD /* lesson14.plist */,
+				4CD05E1C24445F6F0040ADDD /* lesson15.plist */,
+				4CD05E2624445F6F0040ADDD /* lesson16.plist */,
+				4CD05E1F24445F6F0040ADDD /* lesson17.plist */,
+				4CD05E1924445F6E0040ADDD /* lesson18.plist */,
+				4CD05E1B24445F6F0040ADDD /* lesson19.plist */,
+				4CD05E2024445F6F0040ADDD /* lesson20.plist */,
+				4CD05E1524445F6E0040ADDD /* lesson21.plist */,
+				4CD05E4A2445EF0F0040ADDD /* lesson22.plist */,
+				4CD05E492445EF0F0040ADDD /* lesson23.plist */,
+				4CD05E482445EF0E0040ADDD /* lesson24.plist */,
+			);
+			path = wordplist;
+			sourceTree = "<group>";
+		};
+		4CD05E4E244709490040ADDD /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				4CD05E4F244709490040ADDD /* Carbon.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		4CD05DB624400CE30040ADDD /* JP */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 4CD05DC724400CE60040ADDD /* Build configuration list for PBXNativeTarget "JP" */;
+			buildPhases = (
+				4CD05DB324400CE30040ADDD /* Sources */,
+				4CD05DB424400CE30040ADDD /* Frameworks */,
+				4CD05DB524400CE30040ADDD /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = JP;
+			productName = JP;
+			productReference = 4CD05DB724400CE30040ADDD /* JP.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		4CD05DAF24400CE30040ADDD /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1130;
+				LastUpgradeCheck = 1130;
+				ORGANIZATIONNAME = keane;
+				TargetAttributes = {
+					4CD05DB624400CE30040ADDD = {
+						CreatedOnToolsVersion = 11.3.1;
+					};
+				};
+			};
+			buildConfigurationList = 4CD05DB224400CE30040ADDD /* Build configuration list for PBXProject "JP" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 4CD05DAE24400CE30040ADDD;
+			productRefGroup = 4CD05DB824400CE30040ADDD /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				4CD05DB624400CE30040ADDD /* JP */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		4CD05DB524400CE30040ADDD /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4CB4D1CB2463A54D003CE291 /* PopWriteVC.xib in Resources */,
+				4CD05E3824445F6F0040ADDD /* lesson3.plist in Resources */,
+				4CD05E2E24445F6F0040ADDD /* lesson11.plist in Resources */,
+				4CD05E3624445F6F0040ADDD /* lesson12.plist in Resources */,
+				4CD05DCF24401DDC0040ADDD /* ClassVC.xib in Resources */,
+				4CD05E3424445F6F0040ADDD /* lesson20.plist in Resources */,
+				4CD05E2D24445F6F0040ADDD /* lesson18.plist in Resources */,
+				4CD05E4C2445EF0F0040ADDD /* lesson23.plist in Resources */,
+				4CD05E3224445F6F0040ADDD /* lesson2.plist in Resources */,
+				4CD05E3A24445F6F0040ADDD /* lesson16.plist in Resources */,
+				4CD05E3324445F6F0040ADDD /* lesson17.plist in Resources */,
+				4CD05DBF24400CE60040ADDD /* Assets.xcassets in Resources */,
+				4CD05E4B2445EF0F0040ADDD /* lesson24.plist in Resources */,
+				4CD05E2724445F6F0040ADDD /* lesson5.plist in Resources */,
+				4CD05E2824445F6F0040ADDD /* lesson13.plist in Resources */,
+				4CD05E1224445ABE0040ADDD /* lesson14.plist in Resources */,
+				4CD05E3024445F6F0040ADDD /* lesson15.plist in Resources */,
+				4CD05E4D2445EF0F0040ADDD /* lesson22.plist in Resources */,
+				4CD05E2C24445F6F0040ADDD /* lesson7.plist in Resources */,
+				4CD05E2F24445F6F0040ADDD /* lesson19.plist in Resources */,
+				4CD05E3724445F6F0040ADDD /* lesson9.plist in Resources */,
+				4CD05E2A24445F6F0040ADDD /* lesson8.plist in Resources */,
+				4CD05E3924445F6F0040ADDD /* lesson6.plist in Resources */,
+				4CD05DC224400CE60040ADDD /* Main.storyboard in Resources */,
+				4CD05DD1244407B60040ADDD /* mp3 in Resources */,
+				4CD05E2B24445F6F0040ADDD /* lesson1.plist in Resources */,
+				4CD05E3524445F6F0040ADDD /* lesson10.plist in Resources */,
+				4CD05E2924445F6F0040ADDD /* lesson21.plist in Resources */,
+				4CD05E3124445F6F0040ADDD /* lesson4.plist in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		4CD05DB324400CE30040ADDD /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4CD05DBD24400CE30040ADDD /* ViewController.swift in Sources */,
+				4CD05DBB24400CE30040ADDD /* AppDelegate.swift in Sources */,
+				4CD05DD32444083D0040ADDD /* AudioHelper.swift in Sources */,
+				4CB4D1CA2463A54D003CE291 /* PopWriteVC.swift in Sources */,
+				4CD05DCE24401DDC0040ADDD /* ClassVC.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		4CD05DC024400CE60040ADDD /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				4CD05DC124400CE60040ADDD /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		4CD05DC524400CE60040ADDD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.15;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		4CD05DC624400CE60040ADDD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.15;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = macosx;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+			};
+			name = Release;
+		};
+		4CD05DC824400CE60040ADDD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = JP/JP.entitlements;
+				CODE_SIGN_IDENTITY = "Apple Development";
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				DEVELOPMENT_TEAM = H7H4M72G25;
+				ENABLE_HARDENED_RUNTIME = YES;
+				INFOPLIST_FILE = JP/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.keane.JP;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		4CD05DC924400CE60040ADDD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = JP/JP.entitlements;
+				CODE_SIGN_IDENTITY = "Apple Development";
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				DEVELOPMENT_TEAM = H7H4M72G25;
+				ENABLE_HARDENED_RUNTIME = YES;
+				INFOPLIST_FILE = JP/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.keane.JP;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		4CD05DB224400CE30040ADDD /* Build configuration list for PBXProject "JP" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4CD05DC524400CE60040ADDD /* Debug */,
+				4CD05DC624400CE60040ADDD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		4CD05DC724400CE60040ADDD /* Build configuration list for PBXNativeTarget "JP" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4CD05DC824400CE60040ADDD /* Debug */,
+				4CD05DC924400CE60040ADDD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 4CD05DAF24400CE30040ADDD /* Project object */;
+}

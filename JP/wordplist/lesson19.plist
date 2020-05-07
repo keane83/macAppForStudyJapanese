@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+    <string>しなもの(品物) 〔名〕 物品，商品</string>
+    <string>おさら(お皿) 〔名〕 盘子</string>
+    <string>ごみ 〔名〕 垃圾</string>
+    <string>しょしんしゃ(初心者) 〔名〕 初学者</string>
+    <string>じょうきゅうしゃ(上級者) 〔名〕 熟练者</string>
+    <string>こうきゅう(高級) 〔名〕 高级</string>
+    <string>じょうきゅうクラス(上級～) 〔名〕 高级班</string>
+    <string>えいかいわ(英会話) 〔名〕 英语会话</string>
+    <string>コース 〔名〕 路线，滑道</string>
+    <string>スキー 〔名〕 滑雪</string>
+    <string>レポート 〔名〕 报告</string>
+    <string>パスポート 〔名〕 护照</string>
+    <string>のど 〔名〕 喉咙</string>
+    <string>さわります(触ります) 〔动1〕 碰，触</string>
+    <string>ぬぎます(脱ぎます) 〔动1〕 脱</string>
+    <string>ころびます(転びます) 〔动1〕 摔，摔倒，跌倒</string>
+    <string>かわきます(渇きます) 〔动1〕 渴</string>
+    <string>なおります(治ります) 〔动1〕 痊愈，医好</string>
+    <string>すべります(滑ります) 〔动1〕 滑，滑行</string>
+    <string>よびます(呼びます) 〔动1〕 呼喊</string>
+    <string>かえします(返します) 〔动1〕 归还</string>
+    <string>てつだいます(手伝います) 〔动1〕 帮忙</string>
+    <string>はこびます(運びます) 〔动1〕 搬运</string>
+    <string>なくします 〔动1〕 丢，丢失</string>
+    <string>おとします(落とします) 〔动1〕 掉，使落下</string>
+    <string>おきます(置きます) 〔动1〕 放置</string>
+    <string>はらいます(払います) 〔动1〕 支付</string>
+    <string>たちます(立ちます) 〔动1〕 站，立</string>
+    <string>わすれます(忘れます) 〔动2〕 忘记</string>
+    <string>あわてます(慌てます) 〔动2〕 慌张，惊慌，着急</string>
+    <string>すてます(捨てます) 〔动2〕 扔，扔掉</string>
+    <string>ざんぎょうします(残業～) 〔动2〕 加班</string>
+    <string>しんぱいします(心配～) 〔动3〕 担心</string>
+    <string>ほんとう(本当) 〔形2〕 真的，真正</string>
+    <string>はやく(早く) 〔副〕 早点儿</string>
+    <string>やっと 〔副〕 好不容易，终于</string>
+    <string>だいぶ 〔副〕 很，相当地</string>
+    <string>はじめて(初めて) 〔副〕 第一次</string>
+    <string>さきに(先に) 〔副〕 先</string>
+    <string>やまだ(山田) 〔专〕 山田</string>
+</array>
+</plist>

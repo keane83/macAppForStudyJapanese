@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>にもつ（荷物）            【名】包裹</string>
+    <string>はがき            【名】明信片</string>
+    <string>きって（切手）            【名】邮票</string>
+    <string>ひきだし（引き出し）            【名】抽屉</string>
+    <string>アルバム            【名】相册</string>
+    <string>タバコ            【名】烟，烟草</string>
+    <string>まんが（漫画）            【名】漫画</string>
+    <string>ガレージ            【名】车库，汽车房</string>
+    <string>しゅうり（修理）            【名】修理</string>
+    <string>いざかや（居酒屋）            【名】酒馆</string>
+    <string>なまビール（生ビール）           【名】生啤</string>
+    <string>やきとり（焼き鳥）            【名】烤鸡肉串</string>
+    <string>からあげ（唐揚げ）            【名】炸鸡，油炸食品</string>
+    <string>にくじゃが（肉じゃが）            【名】土豆炖肉</string>
+    <string>ポーリング            【名】保龄球</string>
+    <string>かみ（髪）            【名】头发</string>
+    <string>ぞう（象）            【名】象，大象</string>
+    <string>ひる（昼）            【名】白天，中午</string>
+    <string>ほか            【名】另外，其他</string>
+    <string>かかります            【动1】花费（时间，金钱）</string>
+    <string>さきます（咲きます）            【动1】花开</string>
+    <string>およぎます（泳ぎます）            【动1】游泳</string>
+    <string>あそびます（遊びます）            【动1】玩，玩耍</string>
+    <string>すいます（吸います）            【动1】吸（烟）</string>
+    <string>きります（切ります）            【动1】剪，切，割</string>
+    <string>だいたい            【副】大约，大概，大体</string>
+    <string>とりあえず            【副】暂且</string>
+    <string>どのぐらい/どれぐらい            多久，多少钱</string>
+</array>
+</plist>
